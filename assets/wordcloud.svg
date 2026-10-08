@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1250" height="500">
+<style>text{font-family:'Arial';font-weight:bold;font-style:normal;}</style>
+<text transform="translate(341,355)" font-size="150" style="fill:#2F81F7">AI</text>
+<text transform="translate(8,461)" font-size="103" style="fill:#3FB950">Wireless Communication</text>
+<text transform="translate(146,111)" font-size="101" style="fill:#A371F7">Machine Learning</text>
+<text transform="translate(619,300)" font-size="95" style="fill:#F0883E">Agent</text>
+<text transform="translate(194,194)" font-size="94" style="fill:#E5534B">MIMO</text>
+<text transform="translate(682,220)" font-size="90" style="fill:#D29922">Harness</text>
+<text transform="translate(448,235)" font-size="84" style="fill:#39C5CF">LLM</text>
+<text transform="translate(686,369)" font-size="64" style="fill:#DB61A2">Signal Processing</text>
+<text transform="translate(6,252)" font-size="53" style="fill:#2F81F7">Deep Learning</text>
+<text transform="translate(1064,152)" font-size="52" style="fill:#3FB950">Python</text>
+<text transform="translate(204,295)" font-size="50" style="fill:#A371F7">5G</text>
+<text transform="translate(545,393)" font-size="49" style="fill:#F0883E">6G</text>
+<text transform="translate(923,273)" font-size="49" style="fill:#E5534B">Beamforming</text>
+<text transform="translate(36,343)" font-size="48" style="fill:#D29922">PyTorch</text>
+<text transform="translate(932,47)" font-size="46" style="fill:#39C5CF">Transformer</text>
+<text transform="translate(15,195)" font-size="45" style="fill:#DB61A2">OFDM</text>
+<text transform="translate(484,149)" font-size="45" style="fill:#2F81F7">Neural Network</text>
+<text transform="translate(555,495)" font-size="43" style="fill:#3FB950">Channel Estimation</text>
+<text transform="translate(42,489)" font-size="35" style="fill:#A371F7">Reinforcement Learning</text>
+<text transform="translate(132,381)" font-size="33" style="fill:#F0883E">Semantic Communication</text>
+<text transform="translate(954,397)" font-size="32" style="fill:#E5534B">RAG</text>
+<text transform="translate(194,27)" font-size="32" style="fill:#D29922">Prompt Engineering</text>
+<text transform="translate(1056,193)" font-size="31" style="fill:#39C5CF">Fine-tuning</text>
+<text transform="translate(941,309)" font-size="30" style="fill:#DB61A2">Federated Learning</text>
+<text transform="translate(1001,81)" font-size="30" style="fill:#2F81F7">Edge Intelligence</text>
+<text transform="translate(610,331)" font-size="29" style="fill:#3FB950">IoT</text>
+<text transform="translate(45,303)" font-size="29" style="fill:#A371F7">Modulation</text>
+<text transform="translate(599,25)" font-size="28" style="fill:#F0883E">Coding Theory</text>
+<text transform="translate(1068,111)" font-size="27" style="fill:#E5534B">CUDA</text>
+<text transform="translate(229,322)" font-size="26" style="fill:#D29922">AutoML</text>
+</svg>
