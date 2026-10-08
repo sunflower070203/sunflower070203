@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=2F81F7&center=true&vCenter=true&width=780&lines=Hi%2C+there+%F0%9F%91%8B;Keep+learning%2C+keep+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&color=2F81F7&center=true&vCenter=true&width=850&lines=I+Believe+Good+Things+Happen+Everyday+%F0%9F%8C%BB;我相信美好的事情每天都在发生+%F0%9F%8C%BB)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,19 +12,57 @@
 
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
-## 👨‍🎓 About Me
-
-- 🏫 学校/专业: 东南大学 - Information Engineering
-- 🔬 当前重心: 无线通信、机器学习
-- 💡 研究兴趣: AI 开发与应用
-
 <div align="center">
   <img height="165" src="assets/wordcloud.svg" alt="interest word cloud (AI & wireless communication)" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunflower070203&theme=github" alt="most used languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunflower070203&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunflower070203&theme=github">
+    <img height="165" alt="most used languages" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sunflower070203&theme=github">
+  </picture>
 </div>
+
+<div align="center">
+<i>🌐 Language / 语言: 点击下方标签切换 · click the section below to switch</i>
+</div>
+
+<details open>
+<summary><b>🇬🇧 English</b></summary>
+
+<br>
+
+## 👨‍🎓 About Me
+
+- 🏫 Southeast University (SEU) — Information Engineering
+- 🔬 Currently focusing on: Wireless Communication & Machine Learning
+- 💡 Research interests: AI development & applications
 
 ## 📫 Contact Me
 
-- GitHub: https://github.com/sunflower070203
-- Email: sunnyhao0203@gmail.com
-- Blog: https://www.sun-h-blog.cn
+<p>
+  <a href="https://github.com/sunflower070203"><img src="https://img.shields.io/badge/GitHub-sunflower070203-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="mailto:sunnyhao0203@gmail.com"><img src="https://img.shields.io/badge/Email-sunnyhao0203@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.sun-h-blog.cn"><img src="https://img.shields.io/badge/Blog-www.sun--h--blog.cn-2F81F7?style=flat-square&logo=hexo&logoColor=white" alt="Blog"></a>
+</p>
+
+</details>
+
+<details>
+<summary><b>🇨🇳 中文</b></summary>
+
+<br>
+
+## 👨‍🎓 About Me
+
+- 🏫 东南大学 — 信息工程
+- 🔬 当前重心：无线通信、机器学习
+- 💡 研究兴趣：AI 开发与应用
+
+## 📫 Contact Me
+
+<p>
+  <a href="https://github.com/sunflower070203"><img src="https://img.shields.io/badge/GitHub-sunflower070203-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="mailto:sunnyhao0203@gmail.com"><img src="https://img.shields.io/badge/Email-sunnyhao0203@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.sun-h-blog.cn"><img src="https://img.shields.io/badge/Blog-www.sun--h--blog.cn-2F81F7?style=flat-square&logo=hexo&logoColor=white" alt="Blog"></a>
+</p>
+
+</details>
